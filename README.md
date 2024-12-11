@@ -92,9 +92,6 @@ Where:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Contributing
-
-Feel free to fork this repository and submit pull requests. Any contributions to improve the script, especially for Windows compatibility or new features, are welcome!
 
 ## Author
 
