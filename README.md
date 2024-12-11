@@ -58,8 +58,9 @@ Where:
 - **Success**: If the MAC address is successfully changed, you will see a message like:
 
 
- > `[+] Changing MAC address for eth0...`
- > `[+] The MAC address has been successfully changed to 00:55:77:44:77:88 `
+> `[+] Changing MAC address for eth0...`  
+> `[+] The MAC address has been successfully changed to 00:55:77:44:77:88`
+
 
 - **Failure**: If an error occurs, an appropriate error message will be displayed:
 
