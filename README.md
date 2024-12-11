@@ -24,7 +24,6 @@ Before using the script, make sure you have the following:
 
 First, clone the repository to your local machine:
 
-### Add your cloning command here:
  ```bash
  git clone https://github.com/yourusername/mac-address-changer.git
  cd mac-address-changer
@@ -40,7 +39,6 @@ No external dependencies need to be installed, but ensure you have Python instal
 
 To change the MAC address of a network interface, run the script with the following command:
 
-### Add your command here:
  ```bash
  python chang_mac_address.py -i <interface> -m <new_mac>
  ```
