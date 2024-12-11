@@ -25,7 +25,7 @@ Before using the script, make sure you have the following:
 First, clone the repository to your local machine:
 
  ```bash
- git clone https://github.com/yourusername/mac-address-changer.git
+ git clone https://github.com/Esammansour883/mac-address-changer.git
  cd mac-address-changer
  ```
 
